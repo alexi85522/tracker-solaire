@@ -28,4 +28,6 @@ Le cœur de ce système repose sur une série de capteurs photovoltaïques qui d
 #### Conclusion
 
    Le four solaire automatique représente une avancée significative dans le domaine des technologies écologiques. En combinant la puissance de l'énergie solaire avec la commodité de l'automatisation, il offre une solution de cuisson durable, efficace et facile à utiliser.
-	
+# comment  automatisé le four ? 
+## requirements
+ 1. un four solaire 
