@@ -31,13 +31,58 @@ Le cœur de ce système repose sur une série de capteurs photovoltaïques qui d
 # comment  automatisé le four ? 
 ## requirements
 
- 1. un four solaire
+1 un four solaire
 
-![1718306178073](https://github.com/alexi85522/tracker-solaire/assets/76247855/b69bb909-a876-4130-8198-0f8a93a95277)
+   ![1718306178073](https://github.com/alexi85522/tracker-solaire/assets/76247855/b69bb909-a876-4130-8198-0f8a93a95277)
 
-2. plateforme avec là taille que vous voulez avec des Minimum 3 roulette
+2 plateforme avec là taille que vous voulez avec  Minimum 3 roulette
+   
+ ![1718306178058](https://github.com/alexi85522/tracker-solaire/assets/76247855/5149dc35-3089-4dd6-b803-5d356b231395)
 
-![1718306178058](https://github.com/alexi85522/tracker-solaire/assets/76247855/5149dc35-3089-4dd6-b803-5d356b231395)
+3 un arduino nano
+   
+   ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/caed1e26-fb28-4203-9e21-9542baea900b)
+
+4 une plaque a souder
+    
+   ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/6b4f60c2-e1d6-4462-904c-46df0720cd2d)
+
+5 Connecteur 3 pin et 1 Connecteur de 4 pin  
+
+   ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/c38b0bc6-dbe6-474c-a7ad-e0168cb3d8b1)
+
+6 Écran LCD avec I2C
+
+   ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/970f116d-3779-493a-904a-6aa4639db4d1)
+
+7 Capteur à effet Hall
+
+   ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/4246c383-de1a-4a14-a6f3-6899bb921377)
+
+8 Deux photos résistance 
+
+  ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/21c29957-2507-4f3d-b3a8-1892bf2f2193)
+  
+9 kit de résistance 
+
+  ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/19f544a2-ed3e-40c2-a9fc-38d9c25fe221)
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+   
+  
+
+
 
 
 
