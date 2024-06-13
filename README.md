@@ -44,24 +44,34 @@ Le four solaire automatique représente une avancée significative dans le domai
    ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/caed1e26-fb28-4203-9e21-9542baea900b)
 
 4 une plaque a souder
-    
-   ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/6b4f60c2-e1d6-4462-904c-46df0720cd2d)
 
+<p align="center">
+  <img src="https://github.com/alexi85522/tracker-solaire/assets/76247855/6b4f60c2-e1d6-4462-904c-46df0720cd2d" alt="Mon Image">
+</p>
+    
 5 Connecteur 3 pin et 1 Connecteur de 4 pin  
 
-   ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/c38b0bc6-dbe6-474c-a7ad-e0168cb3d8b1)
-
+<p align="center">
+  <img src="https://github.com/alexi85522/tracker-solaire/assets/76247855/c38b0bc6-dbe6-474c-a7ad-e0168cb3d8b1" alt="Mon Image">
+</p>
+ 
 6 Écran LCD avec I2C
 
-   ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/970f116d-3779-493a-904a-6aa4639db4d1)
+<p align="center">
+  <img src="https://github.com/alexi85522/tracker-solaire/assets/76247855/970f116d-3779-493a-904a-6aa4639db4d1" alt="Mon Image">
+</p>
 
 7 Capteur à effet Hall
 
-   ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/4246c383-de1a-4a14-a6f3-6899bb921377)
+<p align="center">
+  <img src="https://github.com/alexi85522/tracker-solaire/assets/76247855/4246c383-de1a-4a14-a6f3-6899bb921377" alt="Mon Image">
+</p>
 
 8 Deux photos résistance 
 
-  ![image](https://github.com/alexi85522/tracker-solaire/assets/76247855/21c29957-2507-4f3d-b3a8-1892bf2f2193)
+<p align="center">
+  <img src="https://github.com/alexi85522/tracker-solaire/assets/76247855/21c29957-2507-4f3d-b3a8-1892bf2f2193" alt="Mon Image">
+</p>
   
 9 kit de résistance 
 
